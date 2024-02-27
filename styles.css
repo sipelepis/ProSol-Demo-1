@@ -1,0 +1,10 @@
+.parent {
+  border: 2px solid blue;
+  border-radius: 1rem;
+  color: blue;
+}
+.parent .child {
+  border: 2px solid red;
+  border-radius: 1rem;
+  color: red;
+}/*# sourceMappingURL=styles.css.map */
